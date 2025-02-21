@@ -1,3 +1,3 @@
 # Project Ellison
 
-![Ellison](images/ellison.jpg)
+![Ellison](images/ellison.JPG)
